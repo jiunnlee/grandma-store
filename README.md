@@ -1,6 +1,6 @@
 # 淘氣大亨：阿嬤的小店 — 四個篇章完整 v0.5
 
-可玩頁面：https://claude.ai/artifact/B1LrwbCKh5KKET4ueyCEDj
+可玩頁面：https://jiunnlee.github.io/grandma-store/ （GitHub Pages，推到 main 自動部署）；Claude 版：https://claude.ai/artifact/B1LrwbCKh5KKET4ueyCEDj
 
 ## 這個版本有什麼
 - 篇章四暗流篇全部八關：保證獲利群組、一模一樣的 App、網友小雨（殺豬盤）、借錢也要上（冷靜期）、創業說明會（老鼠會）、銀行打來的電話（假冒公務機關）、名人也在用（假代言、假聲音）、阿嬤差點被騙（關主戰）
